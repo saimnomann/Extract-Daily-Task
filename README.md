@@ -15,3 +15,7 @@ This project identifies repetitive daily tasks from academic and professional wo
 ### 3. Study Schedule Planner
 **Replaces:** Manually planning study schedules and allocating time for subjects.  
 **Time Saved / Quality Improved:** Quickly generates structured study plans, improving study efficiency and balance.
+
+
+Check out a live demo of the skills here:  
+[View Demo](https://youtu.be/tibjOV4_bKw?feature=shared)
